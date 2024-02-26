@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "fname": "ahmed",
+    "lname": "hamed",
+    "age": 50,
+    "city": "elqanater"
+  },
+  {
+    "id": 3,
+    "fname": "Mahmoud",
+    "lname": "moustafa",
+    "age": 35,
+    "city": "banha"
+  },
+  {
+    "id": 5,
+    "fname": "Toqa",
+    "lname": "Khalil",
+    "age": 27,
+    "city": "Elqanater"
+  },
+  {
+    "id": 6,
+    "fname": "Mohamed",
+    "lname": "Moustafa",
+    "age": 24,
+    "city": "Shobra"
+  },
+  { "id": 9, "fname": "Esraa", "lname": "Mohamed", "age": 33, "city": "banha" },
+  { "id": 10, "fname": "Islam", "lname": "Khaled", "age": 30, "city": "Sadat" }
+]
